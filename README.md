@@ -15,4 +15,4 @@ RLHF, preference optimization, and the alignment of language models.
 Policy-gradient methods · reward modeling · KL-regularized optimization · reward hacking
 
 ### Contact
-[aadzikagrad@gmail.com] · [[LinkedIn](https://www.linkedin.com/in/alfred-adzika/)] 
+aadzikagrad@gmail.com · [LinkedIn](https://www.linkedin.com/in/alfred-adzika/)
