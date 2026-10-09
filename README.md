@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, Alf here
 
-<!--
-**alfietry/alfietry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Math PhD student working on reinforcement learning applied after pretraining:
+RLHF, preference optimization, and the alignment of language models.
 
-Here are some ideas to get you started:
+### What I'm building
+| Project | What it shows | Status |
+|---|---|---|
+| [rlhf-mini](https://github.com/alfietry/rlhf-mini) | End-to-end SFT → reward model → PPO vs. DPO on a small open model, with a reward-hacking analysis | Planned |
+| [rl-from-scratch](https://github.com/alfietry/rl-from-scratch) | REINFORCE, DQN, A2C and PPO written from scratch and benchmarked across seeds, with derivation notes | Planned |
+| [paper-reimplementations](https://github.com/alfietry/paper-reimplementations) | Annotated reimplementations of PPO, InstructGPT reward modeling, DPO and Constitutional AI | Planned |
+| [micrograd-to-transformer](https://github.com/alfietry/micrograd-to-transformer) | Autograd engine to a small GPT, built from first principles | Planned |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+Policy-gradient methods · reward modeling · KL-regularized optimization · reward hacking
+
+### Contact
+[aadzikagrad@gmail.com] · [[LinkedIn](https://www.linkedin.com/in/alfred-adzika/)] 
